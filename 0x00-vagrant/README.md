@@ -1,3 +1,1 @@
-The "uname" command without any options typically prints the name of the operating system kernel that you're currently using.
-
-
+This is the README file for the 0x00-vagrant directory
